@@ -1,7 +1,2 @@
-
-
-0x0D. SQL - Introduction
-
-SQL
-
-MySQL
+### SQL - Introduction
+![sql_image_meme](images/sql_img.jpg)
